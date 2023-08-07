@@ -50,7 +50,7 @@ To run the BMR calculator project on your local machine, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](/src/main/resources/img/Capture.PNG)
+![Screenshot 1](/src/main/resources/img/Capture.PNG)<br>
 _Example screenshot of the BMR calculator application with input fields and results._
 
 ## Contributing
